@@ -2,7 +2,7 @@
 
 I’m interested in front-end development, and I’m currently learning REACT JS and APIs! Check out [my first project](https://github.com/Sarah-Specialist/PFcalculator)!
 
-I started my journey in Software Development in Nov 2021. Prior to this, I have a 3-year experience as a Respiratory Therapist (RT) at Singapore General Hospital. RTs are an integral part of the intensive care unit (ICU) team. My knowledge of the inner workings of a hospital provides an added advantage in the growing trend of healthcare technology. I decided to pursue my long-standing interest in coding and programming, and successfully enrolled in the Software Development Immersive course conducted by SkillsUnion and Nanyang Technological University (NTU). I am learning a lot from a team of wonderful mentors and a group of eager students.
+I started my journey in Software Development in Nov 2021. Prior to this, I completed my Bachelor's Degree in Health Science (Respiratory Therapy) at University of Missouri (USA) and graduated with Summa Cum Laude in 2018. I have a 3-year working experience as a Respiratory Therapist (RT) at Singapore General Hospital, and fought bravely as a frontline worker during the COVID-19 pandemic. RTs are an integral part of the intensive care unit (ICU) team. My knowledge of the inner workings of a hospital provides an added advantage in the growing trend of healthcare technology. I decided to pursue my long-standing interest in coding and programming, and successfully enrolled in the Software Development Immersive course conducted by SkillsUnion and Nanyang Technological University (NTU). I am learning a lot from a team of wonderful mentors and a group of eager students.
 
 ## My GitHub Stats 📊
 <a href="https://github.com/Sarah-Specialist/github-readme-stats">
@@ -14,21 +14,21 @@ I started my journey in Software Development in Nov 2021. Prior to this, I have 
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="40%">
 
 
 
 ### Frontend
 <br>
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /><br>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="30%">
 
 
 
@@ -39,7 +39,7 @@ I started my journey in Software Development in Nov 2021. Prior to this, I have 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="30%">
 
 
 
