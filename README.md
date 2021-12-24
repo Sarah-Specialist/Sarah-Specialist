@@ -16,7 +16,8 @@ I’m interested in front-end development, and I’m currently learning REACT JS
 
 
 
-### Frontend  
+### Frontend
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -30,20 +31,20 @@ I’m interested in front-end development, and I’m currently learning REACT JS
 
 
 ### Backend  
+  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### DevOps  
+### DevOps
+  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 </div>
 
@@ -52,8 +53,8 @@ I’m interested in front-end development, and I’m currently learning REACT JS
 <br/>  
 
 <div align="left">
-  <a href="https://paypal.me/sarah4sante@gmail.com" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center"/></a>
-  <a href="https://www.linkedin.com/in/sarah-khoo-jing-yi/" target="_blank" style="margin: 10px"><img src="https://www.seekpng.com/png/detail/371-3715298_advertise-on-linkedin-linkedin-logo-no-background.png" height="30" width="80" /></a>
+  <a href="https://www.linkedin.com/in/sarah-khoo-jing-yi/" target="_blank" ><img src="https://www.seekpng.com/png/detail/371-3715298_advertise-on-linkedin-linkedin-logo-no-background.png" align="center" height="20" width="80" /></a>  
+  <a href="https://paypal.me/sarah4sante@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center"/></a>
 </div>  
 
 You can reach me at **sarah.specialist@gmail.com**
