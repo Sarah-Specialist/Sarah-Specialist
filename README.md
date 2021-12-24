@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sarah!
 
-I’m interested in front-end development, and I’m currently learning JavaScript!
+I’m interested in front-end development, and I’m currently learning JavaScript! Check out ![my first project](https://github.com/Sarah-Specialist/PFcalculator)!
 
 Skills: HTML, CSS, JavaScript, Bootstrap
 
