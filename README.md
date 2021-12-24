@@ -19,7 +19,7 @@ I started my journey in Software Development in Nov 2021. Prior to this, I have 
 
 
 ### Frontend
-
+<br><br>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -33,7 +33,7 @@ I started my journey in Software Development in Nov 2021. Prior to this, I have 
 
 
 ### Backend  
-  
+<br><br>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
@@ -44,7 +44,7 @@ I started my journey in Software Development in Nov 2021. Prior to this, I have 
 
 
 ### DevOps
-  
+<br><br>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -55,7 +55,7 @@ I started my journey in Software Development in Nov 2021. Prior to this, I have 
 <br/>  
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/sarah-khoo-jing-yi/" target="_blank" ><img src="https://www.seekpng.com/png/detail/371-3715298_advertise-on-linkedin-linkedin-logo-no-background.png" align="center" height="20" width="80" /></a>  
+  <a href="https://www.linkedin.com/in/sarah-khoo-jing-yi/" target="_blank" ><img src="https://www.seekpng.com/png/detail/371-3715298_advertise-on-linkedin-linkedin-logo-no-background.png" align="center" height="20" width="70" /></a>  
   <a href="https://paypal.me/sarah4sante@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center"/></a>
 </div>  
 
