@@ -53,7 +53,7 @@ I’m interested in front-end development, and I’m currently learning REACT JS
 
 <div align="left">
   <a href="https://paypal.me/sarah4sante@gmail.com" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center"/></a>
-  <a href="https://www.linkedin.com/in/sarah-khoo-jing-yi/" target="_blank" style="display: inline-block;"><img src="https://www.cnm.edu/depts/mco/marketing/images/linkedin-logo.png/linkedin-logo.png" align="center"/></a>
+  <a href="https://www.linkedin.com/in/sarah-khoo-jing-yi/" target="_blank" style="margin: 10px"><img src="https://www.seekpng.com/png/detail/371-3715298_advertise-on-linkedin-linkedin-logo-no-background.png" height="30" width="80" /></a>
 </div>  
 
 You can reach me at **sarah.specialist@gmail.com**
