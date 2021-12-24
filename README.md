@@ -2,6 +2,8 @@
 
 I’m interested in front-end development, and I’m currently learning REACT JS and APIs! Check out [my first project](https://github.com/Sarah-Specialist/PFcalculator)!
 
+I started my journey in Software Development in Nov 2021. Prior to this, I have a 3-year experience as a Respiratory Therapist (RT) at Singapore General Hospital. RTs are an integral part of the intensive care unit (ICU) team. My knowledge of the inner workings of a hospital provides an added advantage in the growing trend of healthcare technology. I decided to pursue my long-standing interest in coding and programming. I successfully enrolled in the Software Development Immersive course conducted by SkillsUnion and Nanyang Technological University (NTU). I am learning a lot from a team of wonderful mentors and a group of eager students.
+
 ## My GitHub Stats 📊
 <a href="https://github.com/Sarah-Specialist/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sarah-Specialist&count_private=true&show_icons=true&theme=radical" />
