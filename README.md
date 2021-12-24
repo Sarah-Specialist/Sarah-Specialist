@@ -1,4 +1,4 @@
-!(https://res.cloudinary.com/practicaldev/image/fetch/s--enVmT-G4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j8s2h4erdejm82dyyn7.png)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXDPEuARdtLtLFd60q94IMzaaeyDYDgtnxINhDVSfylkOty1EK_G0VE77YirpUB9zPt68&usqp=CAU)
 # 👋 Hi, I’m Sarah!
 
 I’m interested in front-end development, and I’m currently learning JavaScript!
