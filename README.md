@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXDPEuARdtLtLFd60q94IMzaaeyDYDgtnxINhDVSfylkOty1EK_G0VE77YirpUB9zPt68&usqp=CAU" width="1000" height="40">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXDPEuARdtLtLFd60q94IMzaaeyDYDgtnxINhDVSfylkOty1EK_G0VE77YirpUB9zPt68&usqp=CAU" width="1000" height="60">
 
 # 👋 Hi, I’m Sarah!
 
