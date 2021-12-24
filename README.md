@@ -57,5 +57,6 @@ I’m interested in front-end development, and I’m currently learning REACT JS
   <a href="https://paypal.me/sarah4sante@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center"/></a>
 </div>  
 
-You can reach me at **sarah.specialist@gmail.com**
+
+You can also reach me at **sarah.specialist@gmail.com**
 
