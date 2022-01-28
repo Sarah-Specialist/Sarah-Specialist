@@ -1,4 +1,4 @@
-[https://i.ibb.co/DY7Ty5B/logo.jpg]
+<img src="https://i.ibb.co/DY7Ty5B/logo.jpg" alt="logo"/>
 # 👋 Hi, I’m Sarah!
 
 I’m interested in front-end development, and I’m currently learning REACT JS and APIs! Check out [my first project](https://github.com/Sarah-Specialist/PFcalculator)!
