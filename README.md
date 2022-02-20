@@ -4,7 +4,7 @@
 
 I’m interested in front-end development, and I’m currently learning NODE JS and Back-End Development! 
 
-Check out [my first project](https://github.com/Sarah-Specialist/PFcalculator)!
+Check out my projects under the Pinned section below!
 
 I started my journey in Software Development in Nov 2021. Prior to this, I completed my Bachelor's Degree in Health Science (Respiratory Therapy) at University of Missouri (USA) and graduated with Summa Cum Laude in 2018. I have a 3-year working experience as a Respiratory Therapist (RT) at Singapore General Hospital. I set up, operate and maintain respiratory care equipment, and have utilized Citrix, a patient data management system. I decided to pursue my long-standing interest in coding and programming, and I am currently enrolled in the Software Development Immersive course conducted by SkillsUnion and Nanyang Technological University (NTU). I am learning a lot from a team of wonderful mentors and a group of eager students.
 
