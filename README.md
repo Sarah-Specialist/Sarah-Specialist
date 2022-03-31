@@ -8,6 +8,28 @@ Check out my projects under the Pinned section below!
 
 I started my journey in Software Development in Nov 2021. Prior to this, I completed my Bachelor's Degree in Health Science (Respiratory Therapy) at University of Missouri (USA) and graduated with Summa Cum Laude in 2018. I have a 3-year working experience as a Respiratory Therapist (RT) at Singapore General Hospital. I set up, operate and maintain respiratory care equipment, and have utilized Citrix, a patient data management system. I decided to pursue my long-standing interest in coding and programming, and I am currently enrolled in the Software Development Immersive course conducted by SkillsUnion and Nanyang Technological University (NTU). I am learning a lot from a team of wonderful mentors and a group of eager students.
 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Sarah-Specialist" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/SarahSpecialist" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/sarah-khoo-jing-yi" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100073783084450" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/sarah.specialist" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
 ## My GitHub Stats 📊
 <a href="https://github.com/Sarah-Specialist/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sarah-Specialist&count_private=true&show_icons=true&theme=radical" />
@@ -19,8 +41,6 @@ I started my journey in Software Development in Nov 2021. Prior to this, I compl
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
-
-
 
 ### Frontend
 <br>
