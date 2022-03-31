@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Sarah!
 
-I’m interested in front-end development, and I’m currently learning NODE JS and Back-End Development! 
+I’m currently learning REACT NATIVE! 
 
 Check out my projects under the Pinned section below!
 
@@ -18,7 +18,7 @@ I started my journey in Software Development in Nov 2021. Prior to this, I compl
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="40%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -27,13 +27,13 @@ I started my journey in Software Development in Nov 2021. Prior to this, I compl
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /><br>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 </div>
 
-</td><td valign="top" width="30%">
+</td><td valign="top" width="50%">
 
 
 
