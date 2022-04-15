@@ -25,11 +25,10 @@ I started my journey in Software Development in Nov 2021. Prior to this, I compl
 <a href="https://instagram.com/sarah.specialist" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+ <a href="https://paypal.me/sarah4sante@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Donate-PayPal-blue.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=paypal style="margin-bottom: 5px;" />
+</a>  
 </div><br />
-
-<div align="left"> 
-  <a href="https://paypal.me/sarah4sante@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center"/></a>
-</div>  
 
 You can also reach me at **sarah.specialist@gmail.com**
   
